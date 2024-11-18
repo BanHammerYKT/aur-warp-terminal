@@ -1,8 +1,8 @@
 # Maintainer: banhammer
 pkgname=warp-terminal
 pkgdesc="Warp: The intelligent terminal."
-pkgver=0.2024.10.23.14.49.stable.00
-_pkgver=0.2024.10.23.14.49.stable_00
+pkgver=0.2024.11.12.08.02.stable.02
+_pkgver=0.2024.11.12.08.02.stable_02
 pkgrel=1
 arch=('x86_64')
 source=("https://releases.warp.dev/stable/v${_pkgver}/warp-terminal_${pkgver}_amd64.deb" warp-terminal-bin.desktop warp-terminal.png)
