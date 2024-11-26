@@ -1,9 +1,9 @@
 pkgbase = warp-terminal
 	pkgdesc = Warp: The intelligent terminal.
-	pkgver = 0.2024.11.12.08.02.stable.02
+	pkgver = 0.2024.11.19.08.02.stable.01
 	pkgrel = 1
 	arch = x86_64
-	source = https://releases.warp.dev/stable/v0.2024.11.12.08.02.stable_02/warp-terminal_0.2024.11.12.08.02.stable.02_amd64.deb
+	source = https://releases.warp.dev/stable/v0.2024.11.19.08.02.stable_01/warp-terminal_0.2024.11.19.08.02.stable.01_amd64.deb
 	source = warp-terminal-bin.desktop
 	source = warp-terminal.png
 	md5sums = SKIP
